@@ -1,6 +1,6 @@
 # Title: Literature Review Summary on Integrated Genomic Analyses of Ovarian Carcinoma
 
-Niguse Kelile Lema1, Raqeebat Rafiu, Abdulqudus Oladega 
+Niguse Kelile Lema, Raqeebat Rafiu, Abdulqudus Oladega, Zaka Ullah 
 
 ## Introduction
 
@@ -31,8 +31,9 @@ Bell D, Berchuck A, Birrer M, Chien J, Cramer DW, Dao F, et al. Integrated genom
 1.	Niguse Kelile Lema [Slack ID: U07KGNNU692] [email: nigusmov16@gmail.com]
 2.	Raqeebat Rafiu [Slack ID: U07JH1CS4BV] [email: raraqeebat@gmail.com]
 3.  Abdulqudus Oladega [Slack ID: U07JEADTFV3] [email: oladegakenny@gmail.com]
+4.  Zaka Ullah [Slack ID: U07KH8KMKFB] [email: zakaullahx3@gmail.com]
 
 ## Useful Links 
 1.	LinkedIn Post 
-2.	GitHub Markdown 
+2.	GitHub Markdown: https://github.com/nigusekelile/HackBio_Internship/blob/main/Task%202%20(Stage%201)_Literature_Review_Summary.md
 
