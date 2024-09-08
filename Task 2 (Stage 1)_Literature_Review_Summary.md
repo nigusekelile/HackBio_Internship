@@ -1,14 +1,14 @@
 # Title: Literature Review Summary on Integrated Genomic Analyses of Ovarian Carcinoma
 
-Niguse Kelile Lema1, Raqeebat Rafiu2
+Niguse Kelile Lema1, Raqeebat Rafiu, Abdulqudus Oladega 
 
 ## Introduction
 
-High-Grade Serous Ovarian Carcinoma (HGS-OvCa) is the 5th leading cause of cancer deaths in women. This cancer type is characterized by high genetic complexity with poor survival rates. The standard treatment for HGS-OvCa Surgery followed by platinum-taxane chemotherapy. The main objective of this article is to understand the Genetic Landscape of High-Grade Serous Ovarian Cancer (HGS-OvCa).
+High-Grade Serous Ovarian Carcinoma (HGS-OvCa) is the fifth leading cause of cancer-related deaths among women in the United States (*Sung et al, 2021*). This cancer type is characterized by high genetic complexity with poor survival rates. The standard treatment for HGS-OvCa Surgery followed by platinum-taxane chemotherapy. The main objective of this article is to understand the Genetic Landscape of High-Grade Serous Ovarian Cancer (HGS-OvCa).
 
 ## TP53 mutations
-One of the key finding of this article is nearly all tumors exhibits TP53 Mutations (96%) which is tumors suppressor gene and play crucial role in controlling cell division and preventing cancer. Mutation in TP53 gene indicates uncontrolled cell growth and continues proliferation of cancerous cells.  In addition, low frequency recurrent mutation also observed in BRCA1, BRCA2, NF1, RB1, CDK12. 
-Copy Number Aberrations and Methylation
+One of the key finding of this article is nearly all tumors (96%) exhibits TP53 Mutations, a tumors suppressor gene and play crucial role in regulating cell division and preventing cancer. Mutation in TP53 gene indicates uncontrolled cell growth and continues proliferation of cancerous cells. Additionally, low-frequency recurrent mutation were also observed in genes such as BRCA1, BRCA2, NF1, RB1, CDK12. The study also highlights the presence of copy number aberrations and DNA methylation changes.
+
 The study found 113 important changes in DNA copy numbers, where certain cancer-promoting genes like CCNE1 and MYC were amplified, while tumor-suppressing genes were deleted. Additionally, 168 genes were silenced due to methylation, which further blocked the function of tumor suppressors, contributing to cancer growth.
 
 ## Subtypes of Ovarian Cancer
@@ -21,14 +21,16 @@ Tumors with BRCA1 or BRCA2 mutations have better survival outcomes compared to o
 About 50% of tumors have defects in the homologous recombination (HR) pathway, making them treatable with PARP inhibitors. The NOTCH and FOXM1 signaling pathways also play a role in cancer growth. These findings suggest therapies targeting these pathways and specific genes could improve treatment for ovarian cancer patients.
 
 ## Conclusion
-The study highlights the central role of TP53 mutations and significant heterogeneity in other aberrations less frequent recurrent mutations. The defect in homologous recombination pathways making susceptible to treatment with PARP inhibitors. 
+The study highlights the central role of TP53 mutations and significant heterogeneity in other aberrations less frequent recurrent mutations. Defect in the homologous recombination pathways make tumors more susceptible to treatment with PARP inhibitors. Additionally, this article suggest these discoveries set the stage for approaches to the treatment of HGS-OvCa in which aberrant genes or networks are detected and targeted with therapies selected to be effective against these specific aberrations.
 
-## References 
+## References
+Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I, Jemal A, Bray F. Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA Cancer J Clin. 2021 May;71(3):209-249. doi: 10.3322/caac.21660. Epub 2021 Feb 4. PMID: 33538338.
 Bell D, Berchuck A, Birrer M, Chien J, Cramer DW, Dao F, et al. Integrated genomic analyses of ovarian carcinoma. Nature. 2011;474(7353):609–15. 
 
 ## Contributors
 1.	Niguse Kelile Lema [Slack ID: U07KGNNU692] [email: nigusmov16@gmail.com]
 2.	Raqeebat Rafiu [Slack ID: U07JH1CS4BV] [email: raraqeebat@gmail.com]
+3.  Abdulqudus Oladega [Slack ID: U07JEADTFV3] [email: oladegakenny@gmail.com]
 
 ## Useful Links 
 1.	LinkedIn Post 
