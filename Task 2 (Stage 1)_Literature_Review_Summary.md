@@ -21,7 +21,7 @@ Tumors with BRCA1 or BRCA2 mutations have better survival outcomes compared to o
 About 50% of tumors have defects in the homologous recombination (HR) pathway, making them treatable with PARP inhibitors. The NOTCH and FOXM1 signaling pathways also play a role in cancer growth. These findings suggest therapies targeting these pathways and specific genes could improve treatment for ovarian cancer patients.
 
 ## Conclusion
-The study highlights the central role of TP53 mutations and significant heterogeneity in other aberrations less frequent recurrent mutations. Defect in the homologous recombination pathways make tumors more susceptible to treatment with PARP inhibitors. Additionally, this article suggest these discoveries set the stage for approaches to the treatment of HGS-OvCa in which aberrant genes or networks are detected and targeted with therapies selected to be effective against these specific aberrations.
+The study highlights the central role of TP53 mutations and significant heterogeneity in other aberrations less frequent recurrent mutations. Defect in the homologous recombination pathways make tumors more susceptible to treatment with PARP inhibitors. Additionally, the genomic landscape uncovered in this study provides valuable insights for therapeutic targeting and highlights the potential for personalized treatment strategies based on specific genetic and molecular alterations for HGS-OvCa.
 
 ## References
 Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I, Jemal A, Bray F. Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA Cancer J Clin. 2021 May;71(3):209-249. doi: 10.3322/caac.21660. Epub 2021 Feb 4. PMID: 33538338.
