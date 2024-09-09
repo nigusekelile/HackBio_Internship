@@ -34,6 +34,6 @@ Bell D, Berchuck A, Birrer M, Chien J, Cramer DW, Dao F, et al. Integrated genom
 4.  Zaka Ullah [Slack ID: U07KH8KMKFB] [email: zakaullahx3@gmail.com]
 
 ## Useful Links 
-1.	LinkedIn Video Post: https://lnkd.in/e_98Utq9
+1.	LinkedIn Video Post: https://www.linkedin.com/posts/niguse-kelile-lema_literature-review-on-integrated-genome-analysis-activity-7238881804122828800-NZIA?utm_source=share&utm_medium=member_desktop
 2.	GitHub Markdown: https://lnkd.in/eKZ8zDC5
 
