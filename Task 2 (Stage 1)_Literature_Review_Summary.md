@@ -34,6 +34,6 @@ Bell D, Berchuck A, Birrer M, Chien J, Cramer DW, Dao F, et al. Integrated genom
 4.  Zaka Ullah [Slack ID: U07KH8KMKFB] [email: zakaullahx3@gmail.com]
 
 ## Useful Links 
-1.	LinkedIn Post 
-2.	GitHub Markdown: https://github.com/nigusekelile/HackBio_Internship/blob/main/Task%202%20(Stage%201)_Literature_Review_Summary.md
+1.	LinkedIn Video Post: https://lnkd.in/e_98Utq9
+2.	GitHub Markdown: https://lnkd.in/eKZ8zDC5
 
