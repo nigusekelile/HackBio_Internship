@@ -37,10 +37,10 @@ The results of the DEA are summarized in a table, providing insights into which 
 To enhance the interpretability of the results, the project annotates the differentially expressed genes (DEGs) using the biomaRt package. 
 This step associates Ensembl gene IDs with their corresponding HGNC symbols, facilitating biological interpretation.
 
-![Logo](https://example.com/logo.png)
+![Volcanoplot](https://github.com/nigusekelile/HackBio_Internship/blob/main/Stage_4_Pipeline_Implementation_ll/images/Volcano_Plot.png)
 *Figure 1: The volcano plot illustrates the relationship between fold change and false discovery rate (FDR) for the identified DEGs.*
 
-![Logo](https://example.com/logo.png)
+![Heatmap](https://github.com/nigusekelile/HackBio_Internship/blob/main/Stage_4_Pipeline_Implementation_ll/images/Heat_Map.png)
 *Figure 2: The heatmap visualizes expression patterns of DEGs, employing color coding to differentiate between WT and mutant samples.*
 
 ### Machine Learning Analysis
@@ -53,8 +53,8 @@ This clustering analysis helps uncover underlying patterns in gene expression an
 ## Conclusion
 The project successfully integrates cancer genomics with machine learning techniques to advance the understanding of gliomas. 
 
-## Rscript:
-## Report:
+### Rscript:
+### Report:
 
 ## References
 1. Ceccarelli, M., Barthel, F. P., Malta, T. M., Sabedot, T. S., Salama, S. R., Murray, B. A., Morozova, O., Newton, Y., Radenbaugh, A., Pagnotta, S. M., Anjum, S., Wang, J., Manyam, G., Zoppoli, P., Ling, S., Rao, A. A., Grifford, M., Cherniack, A. D., Zhang, H., … Verhaak, R. G. W. (2016). Molecular Profiling Reveals Biologically Discrete Subsets and Pathways of Progression in Diffuse Glioma. Cell, 164(3), 550–563. https://doi.org/10.1016/j.cell.2015.12.028
@@ -62,10 +62,6 @@ The project successfully integrates cancer genomics with machine learning techni
 3. Shields, L. B. E., & Choucair, A. K. (2014). Management of Low-Grade Gliomas: A Review of Patient-Perceived Quality of Life and Neurocognitive Outcome. World Neurosurgery, 82(1–2), e299–e309. https://doi.org/10.1016/j.wneu.2014.02.033
 4. Vrazhnov, D., Mankova, A., Stupak, E., Kistenev, Y., Shkurinov, A., & Cherkasova, O. (2023). Discovering Glioma Tissue through Its Biomarkers’ Detection in Blood by Raman Spectroscopy and Machine Learning. Pharmaceutics, 15(1). https://doi.org/10.3390/pharmaceutics15010203
 
-=======
-## Data Acquastion and Preprocessing Steps
-## Methodology and Results
-## Conclusion
 
 ## Rscript:
 ## Report:
