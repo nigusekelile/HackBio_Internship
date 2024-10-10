@@ -10,6 +10,7 @@ Abilashni Arthiswaran (@Abilashni83),
 Benedict Orile Ajunku (@orile)
 
 ## Introduction
+<<<<<<< HEAD
 Gliomas are a type of brain tumor originating from glial cells, which support nerve cells in the central nervous system. They are classified by their aggressiveness, with glioblastomas being the most severe. The isocitrate dehydrogenase (IDH) gene mutation is a key factor in glioma classification, as IDH-mutant gliomas have a better prognosis than IDH-wildtype. IDH status plays a critical role in understanding tumor behavior, guiding treatment strategies, and assessing patient survival outcomes in neuro-oncology. The most commonly occurring malignant brain tumors are gliomas (Ceccarelli et al., 2016). 
 
 
@@ -61,3 +62,13 @@ The project successfully integrates cancer genomics with machine learning techni
 3. Shields, L. B. E., & Choucair, A. K. (2014). Management of Low-Grade Gliomas: A Review of Patient-Perceived Quality of Life and Neurocognitive Outcome. World Neurosurgery, 82(1–2), e299–e309. https://doi.org/10.1016/j.wneu.2014.02.033
 4. Vrazhnov, D., Mankova, A., Stupak, E., Kistenev, Y., Shkurinov, A., & Cherkasova, O. (2023). Discovering Glioma Tissue through Its Biomarkers’ Detection in Blood by Raman Spectroscopy and Machine Learning. Pharmaceutics, 15(1). https://doi.org/10.3390/pharmaceutics15010203
 
+=======
+## Data Acquastion and Preprocessing Steps
+## Methodology and Results
+## Conclusion
+
+## Rscript:
+## Report:
+
+## References
+>>>>>>> 36cd6c4cd8bd1428f36c5210a220cef685ab0453
