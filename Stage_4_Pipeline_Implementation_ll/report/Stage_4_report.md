@@ -10,7 +10,6 @@ Abilashni Arthiswaran (@Abilashni83),
 Benedict Orile Ajunku (@orile)
 
 ## Introduction
-<<<<<<< HEAD
 Gliomas are a type of brain tumor originating from glial cells, which support nerve cells in the central nervous system. They are classified by their aggressiveness, with glioblastomas being the most severe. The isocitrate dehydrogenase (IDH) gene mutation is a key factor in glioma classification, as IDH-mutant gliomas have a better prognosis than IDH-wildtype. IDH status plays a critical role in understanding tumor behavior, guiding treatment strategies, and assessing patient survival outcomes in neuro-oncology. The most commonly occurring malignant brain tumors are gliomas (Ceccarelli et al., 2016). 
 
 
@@ -53,8 +52,8 @@ This clustering analysis helps uncover underlying patterns in gene expression an
 ## Conclusion
 The project successfully integrates cancer genomics with machine learning techniques to advance the understanding of gliomas. 
 
-### Rscript:
-### Report:
+### Rscript: https://github.com/nigusekelile/HackBio_Internship/blob/main/Stage_4_Pipeline_Implementation_ll/code/Task%205%20(Stage%204)_Pipeline_Implementation_ll.R
+### Report: https://github.com/nigusekelile/HackBio_Internship/blob/main/Stage_4_Pipeline_Implementation_ll/report/Stage_4_report.md
 
 ## References
 1. Ceccarelli, M., Barthel, F. P., Malta, T. M., Sabedot, T. S., Salama, S. R., Murray, B. A., Morozova, O., Newton, Y., Radenbaugh, A., Pagnotta, S. M., Anjum, S., Wang, J., Manyam, G., Zoppoli, P., Ling, S., Rao, A. A., Grifford, M., Cherniack, A. D., Zhang, H., … Verhaak, R. G. W. (2016). Molecular Profiling Reveals Biologically Discrete Subsets and Pathways of Progression in Diffuse Glioma. Cell, 164(3), 550–563. https://doi.org/10.1016/j.cell.2015.12.028
@@ -62,9 +61,3 @@ The project successfully integrates cancer genomics with machine learning techni
 3. Shields, L. B. E., & Choucair, A. K. (2014). Management of Low-Grade Gliomas: A Review of Patient-Perceived Quality of Life and Neurocognitive Outcome. World Neurosurgery, 82(1–2), e299–e309. https://doi.org/10.1016/j.wneu.2014.02.033
 4. Vrazhnov, D., Mankova, A., Stupak, E., Kistenev, Y., Shkurinov, A., & Cherkasova, O. (2023). Discovering Glioma Tissue through Its Biomarkers’ Detection in Blood by Raman Spectroscopy and Machine Learning. Pharmaceutics, 15(1). https://doi.org/10.3390/pharmaceutics15010203
 
-
-## Rscript:
-## Report:
-
-## References
->>>>>>> 36cd6c4cd8bd1428f36c5210a220cef685ab0453
