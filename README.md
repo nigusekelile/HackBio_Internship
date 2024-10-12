@@ -10,6 +10,7 @@ Stage 1: Literature Review Summary on Integrated Genomic Analyses of Ovarian Car
 Stage 2: Differential Gene Expression Analysis of a Glioblastoma dataset.  
 Stage 3: Biomarker Discovery through Machine Learning and Differential Expression Analysis of Stomach Adenocarcinoma.  
 Stage 4: Differential Gene Expression Analysis and Machine Learning of Gliomas.  
+Stage 5: Project Preparation on Classification of Clinical Stages of Liver Cancer Using Machine Learning.  
 
 ## Author
 Niguse Kelile Lema
