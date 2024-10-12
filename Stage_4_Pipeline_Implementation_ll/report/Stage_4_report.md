@@ -10,7 +10,7 @@ Abilashni Arthiswaran (@Abilashni83),
 Benedict Orile Ajunku (@orile)
 
 ## Introduction
-Gliomas are a type of brain tumor originating from glial cells, which support nerve cells in the central nervous system. They are classified by their aggressiveness, with glioblastomas being the most severe. The isocitrate dehydrogenase (IDH) gene mutation is a key factor in glioma classification, as IDH-mutant gliomas have a better prognosis than IDH-wildtype. IDH status plays a critical role in understanding tumor behavior, guiding treatment strategies, and assessing patient survival outcomes in neuro-oncology. The most commonly occurring malignant brain tumors are gliomas (Ceccarelli et al., 2016). 
+Gliomas are a type of brain tumor originating from glial cells, which support nerve cells in the central nervous system. They are classified by their aggressiveness, with glioblastomas being the most severe (Shields & Choucair, 2014). The isocitrate dehydrogenase (IDH) gene mutation is a key factor in glioma classification, as IDH-mutant gliomas have a better prognosis than IDH-wildtype. IDH status plays a critical role in understanding tumor behavior, guiding treatment strategies, and assessing patient survival outcomes in neuro-oncology. The most commonly occurring malignant brain tumors are gliomas (Ceccarelli et al., 2016). 
 
 
 ## Methodology and Results
@@ -46,18 +46,20 @@ This step associates Ensembl gene IDs with their corresponding HGNC symbols, fac
 To delve deeper into the data, machine learning techniques are applied. 
 The project utilizes the caret package to preprocess the gene expression data, focusing on variability and correlation among genes. 
 The top 3,000 genes with the highest variability are selected for clustering analysis.
--Means clustering is performed to identify potential subgroups within the glioma data, with the results visualized using fviz_cluster. 
+K-Means clustering is performed to identify potential subgroups within the glioma data, with the results visualized using fviz_cluster. 
 This clustering analysis helps uncover underlying patterns in gene expression and assess the impact of IDH status on gene expression profiles.
 
+
+![K-means Clustering](https://github.com/nigusekelile/HackBio_Internship/blob/main/Stage_4_Pipeline_Implementation_ll/images/Heat_Map.png)
+*Figure 3: K-meansd clustering*
+
 ## Conclusion
-The project successfully integrates cancer genomics with machine learning techniques to advance the understanding of gliomas. 
+The K-means clustering analysis identified four distinct clusters. However, when compared to the IDH status, both Mutant and Wild Type samples were present in all four clusters. This suggests that the model did not clearly differentiate the samples into distinct Wild Type and Mutant groups. Moreover, two of the clusters showed overlap, indicating that the boundaries between them were not sharply defined. As a result, the clustering did not achieve the expected separation between Mutant and Wild Type samples. 
 
 ### Rscript: https://github.com/nigusekelile/HackBio_Internship/blob/main/Stage_4_Pipeline_Implementation_ll/code/Task%205%20(Stage%204)_Pipeline_Implementation_ll.R
 ### Report: https://github.com/nigusekelile/HackBio_Internship/blob/main/Stage_4_Pipeline_Implementation_ll/report/Stage_4_report.md
 
 ## References
 1. Ceccarelli, M., Barthel, F. P., Malta, T. M., Sabedot, T. S., Salama, S. R., Murray, B. A., Morozova, O., Newton, Y., Radenbaugh, A., Pagnotta, S. M., Anjum, S., Wang, J., Manyam, G., Zoppoli, P., Ling, S., Rao, A. A., Grifford, M., Cherniack, A. D., Zhang, H., … Verhaak, R. G. W. (2016). Molecular Profiling Reveals Biologically Discrete Subsets and Pathways of Progression in Diffuse Glioma. Cell, 164(3), 550–563. https://doi.org/10.1016/j.cell.2015.12.028
-2. Neil, Z. D., Pierzchajlo, N., Boyett, C., Little, O., Kuo, C. C., Brown, N. J., & Gendreau, J. (2023). Assessing Metabolic Markers in Glioblastoma Using Machine Learning: A Systematic Review. Metabolites, 13(2). https://doi.org/10.3390/metabo13020161
-3. Shields, L. B. E., & Choucair, A. K. (2014). Management of Low-Grade Gliomas: A Review of Patient-Perceived Quality of Life and Neurocognitive Outcome. World Neurosurgery, 82(1–2), e299–e309. https://doi.org/10.1016/j.wneu.2014.02.033
-4. Vrazhnov, D., Mankova, A., Stupak, E., Kistenev, Y., Shkurinov, A., & Cherkasova, O. (2023). Discovering Glioma Tissue through Its Biomarkers’ Detection in Blood by Raman Spectroscopy and Machine Learning. Pharmaceutics, 15(1). https://doi.org/10.3390/pharmaceutics15010203
+2. Shields, L. B. E., & Choucair, A. K. (2014). Management of Low-Grade Gliomas: A Review of Patient-Perceived Quality of Life and Neurocognitive Outcome. World Neurosurgery, 82(1–2), e299–e309. https://doi.org/10.1016/j.wneu.2014.02.033
 
